@@ -6,6 +6,8 @@
 
 4 scikit-learn==1.0.2
 
-5 altair<5
+5 altair==4.0
 
-6 click<8.0,>=7.0
+6 altair<5
+
+7 click<8.0,>=7.0
